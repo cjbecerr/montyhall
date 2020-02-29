@@ -1,0 +1,16 @@
+Package: montyhall
+Title: Monty Hall Game
+Version: 1.0.0.9000
+Authors@R: 
+    person(given = "Cristian",
+           family = "Becerra",
+           role = c("aut", "cre"),
+           email = "cjbecerr@asu.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Depends: 
+   dplyr
+Description: This package contains functions to simulate the monty hall game show. Functions include the ability to create a game, pick a door, and change the door. This package also allows a simulation of multiple games to be run for testing outcomes.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
